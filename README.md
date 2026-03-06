@@ -2,8 +2,7 @@
 
 ## Магистърска дипломна работа
 
-Дипломна работа за завършване на магистър по  
-**„Логика и алгоритми“**  
+Дипломна работа за завършване на магистър по  **„Логика и алгоритми“**  
 Катедра „Логика“  
 Факултет по математика и информатика  
 Софийски университет „Св. Климент Охридски“
@@ -28,9 +27,8 @@
 
 ## Master's Degree Thesis
 
-Master's degree thesis for the completion of the MSc programme
+Master's degree thesis for the completion of the MSc programme **Logic and Algorithms** 
 
-**Logic and Algorithms**  
 Department of Logic  
 Faculty of Mathematics and Informatics  
 Sofia University "St. Kliment Ohridski"
