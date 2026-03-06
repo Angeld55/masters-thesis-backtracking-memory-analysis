@@ -8,8 +8,6 @@
 Факултет по математика и информатика  
 Софийски университет „Св. Климент Охридски“
 
-(Магистърската програма „Логика и алгоритми“ е част от обучението по математика и информатика във Факултета по математика и информатика на Софийския университет.) :contentReference[oaicite:0]{index=0}
-
 ### Дати
 
 Предзащита: **17 март 2022 г.**  
@@ -36,8 +34,6 @@ Master's degree thesis for the completion of the MSc programme
 Department of Logic  
 Faculty of Mathematics and Informatics  
 Sofia University "St. Kliment Ohridski"
-
-(The Master's programme “Logic and Algorithms” is part of the mathematical logic and algorithms training offered at the Faculty of Mathematics and Informatics of Sofia University.) :contentReference[oaicite:1]{index=1}
 
 ### Dates
 
